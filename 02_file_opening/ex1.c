@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 
-#define MY_TMP_FILE "/home/salix/Projects/c_workshop/file_opening/teste.txt"
+#define MY_TMP_FILE "./teste.txt"
 
 int main(int argc, char *argv[])
 {
